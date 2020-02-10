@@ -1,0 +1,19 @@
+{
+  "name": "express-static-default-document-same-name-as-parent-folder",
+  "version": "1.0.0",
+  "description": "Use /public/folder/folder.html as default document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fernandobhz:Gi-48265@github.com/fernandobhz/express-static-default-document-same-name-as-parent-folder.git"
+  },
+  "author": "Fernando Reis Guimaraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/express-static-default-document-same-name-as-parent-folder/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/express-static-default-document-same-name-as-parent-folder#readme"
+}
